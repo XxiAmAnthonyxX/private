@@ -1,0 +1,5 @@
+Strength
+Endourance
+Stamina
+Flexability
+
